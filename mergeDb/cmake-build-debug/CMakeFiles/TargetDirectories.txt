@@ -1,0 +1,3 @@
+/media/ccddr/D/ESGI/2A/2S/pomocServices/sources/mergeDb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/ccddr/D/ESGI/2A/2S/pomocServices/sources/mergeDb/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/ccddr/D/ESGI/2A/2S/pomocServices/sources/mergeDb/cmake-build-debug/CMakeFiles/test.dir

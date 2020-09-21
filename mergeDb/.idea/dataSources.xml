@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="testMergeDb1@localhost" uuid="ece0c60f-1322-41d4-92b7-e6b4dc4dac78">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/testMergeDb1</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="testMergeDb2@localhost" uuid="c68b7684-8e50-4d66-bec7-ca7b8d2bb5f3">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/testMergeDb2</jdbc-url>
+    </data-source>
+  </component>
+</project>
